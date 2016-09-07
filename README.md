@@ -2,7 +2,7 @@
 =============
 
 
-List configured AE connections
+List configured AE connections in Request Management
 http://github.com/Automic-Community/Read-AE-Servers-and-Clients
 
 <!-- List of attached files -->
@@ -19,7 +19,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>This APM (ServiceTask) allows you to list all configured AE connections (AE Server instances and the clients).</p>
+<p>This APM (ServiceTask) for Request Management allows you to list all configured AE connections (AE Server instances and the clients).</p>
 <p>Usage i.e.: REST-query, chat-bot, ...</p>
 
 Copyright and License
